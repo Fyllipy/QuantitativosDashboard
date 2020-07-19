@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+
+      
+      <!--Import Google Icon Font-->
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+      <link rel="stylesheet" type="text/css" href="icofont.min.css">
+      
+      
+
+      <!--Let browser know website is optimized for mobile-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+      
+    </head>
+
+
+    <body>
+        <div class="w3-sidebar w3-bar-block w3-card w3-animate-left" style="display:none" id="mySidebar">
+            <button class="w3-bar-item w3-button w3-large"
+            onclick="w3_close()">Close &times;</button>
+            <a href="#" class="w3-bar-item w3-button">Link 1</a>
+            <a href="#" class="w3-bar-item w3-button">Link 2</a>
+            <a href="#" class="w3-bar-item w3-button">Link 3</a>
+          </div>
+          
+          <div id="main">
+          
+          <div class="w3-teal">
+            <button id="openNav" class="w3-button w3-teal w3-xlarge" onclick="w3_open()">&#9776;</button>
+            <div class="w3-container">
+              <h1>My Page</h1>
+            </div>
+          </div>
+
+
+          <button class="w3-button w3-round w3-light-gray"><i class="icofont-bricks icofont-5x"></i></button>
+          <button class="w3-button w3-round w3-light-gray">Round</button>
+          <button class="w3-button w3-round w3-light-gray">Round</button>
+          <button class="w3-button w3-round w3-light-gray">Round</button>
+          <button class="w3-button w3-round w3-light-gray">Round</button>
+
+          <script> 
+function readJSON(path) {
+    var xhr = new XMLHttpRequest();
+    xhr.open('GET', './teste.txt', true);
+    xhr.responseType = 'blob';
+    xhr.onload = function(e) { 
+      if (this.status == 200) {
+          var file = new File([this.response], 'temp');
+          var fileReader = new FileReader();
+          fileReader.addEventListener('load', function(){
+               console.log(fileReader.result);
+          });
+          fileReader.readAsText(file);
+      } 
+    }
+    xhr.send();
+}
+            </script> 
+          
+
+      <!--JavaScript at end of body for optimized loading-->
+      <script type="text/javascript" src="js/buttons.js"></script>
+    </body>
+  </html>
