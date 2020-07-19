@@ -1,0 +1,4 @@
+{'Fase demolida': 'Nenhum', 'Imagem': '<Nenhum>', 'Fase criada': u'Constru\xe7\xe3o nova', u'N\xedvel': u'N\xedvel 1', 'Marca': None, 'Altura do peitoril': '915', u'Coment\xe1rios': None, 'Altura da extremidade': '1525'},
+{'Fase demolida': 'Nenhum', 'Imagem': '<Nenhum>', 'Fase criada': u'Constru\xe7\xe3o nova', u'N\xedvel': u'N\xedvel 1', 'Marca': None, 'Altura do peitoril': '915', u'Coment\xe1rios': None, 'Altura da extremidade': '1525'},
+{'Fase demolida': 'Nenhum', 'Imagem': '<Nenhum>', 'Fase criada': u'Constru\xe7\xe3o nova', u'N\xedvel': u'N\xedvel 1', 'Marca': None, 'Altura do peitoril': '915', u'Coment\xe1rios': None, 'Altura da extremidade': '1525'},
+{'Fase demolida': 'Nenhum', 'Imagem': '<Nenhum>', 'Fase criada': u'Constru\xe7\xe3o nova', u'N\xedvel': u'N\xedvel 1', 'Marca': None, 'Altura do peitoril': '915', u'Coment\xe1rios': None, 'Altura da extremidade': '1525'} 
