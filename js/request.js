@@ -1,6 +1,6 @@
 var ourRequest = new XMLHttpRequest();
 
-    ourRequest.open('GET', 'https://raw.githubusercontent.com/Fyllipy/QuantitativosDashboard/master/quantitativos.txt');
+    ourRequest.open('GET', 'https://raw.githubusercontent.com/Fyllipy/QuantitativosDashboard/master/windows.txt');
     ourRequest.onload = function (){
         var ans;
             ans = ourRequest.responseText;
