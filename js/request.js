@@ -4,7 +4,7 @@ var ourRequest = new XMLHttpRequest();
     ourRequest.onload = function (){
         var ans;
             ans = ourRequest.responseText;
-            //console.log(ans);
+            console.log(ans);
             //var teste = ans[rec];
 
             var dadosJSON = JSON.parse(ans);
