@@ -1,4 +1,7 @@
+
+{"windows": [
 {"Fase demolida": "Nenhum", "Imagem": "<Nenhum>", "Fase criada": "Constru\xe7\xe3o nova", "N\xedvel": "N\xedvel 1", "Marca": "None", "Altura do peitoril": 915, "Coment\xe1rios": "None", "Altura da extremidade": 1525},
 {"Fase demolida": "Nenhum", "Imagem": "<Nenhum>", "Fase criada": "Constru\xe7\xe3o nova", "N\xedvel": "N\xedvel 1", "Marca": "None", "Altura do peitoril": 915, "Coment\xe1rios": "None", "Altura da extremidade": 1525},
 {"Fase demolida": "Nenhum", "Imagem": "<Nenhum>", "Fase criada": "Constru\xe7\xe3o nova", "N\xedvel": "N\xedvel 1", "Marca": "None", "Altura do peitoril": 915, "Coment\xe1rios": "None", "Altura da extremidade": 1525},
-{"Fase demolida": "Nenhum", "Imagem": "<Nenhum>", "Fase criada": "Constru\xe7\xe3o nova", "N\xedvel": "N\xedvel 1", "Marca": "None", "Altura do peitoril": 915, "Coment\xe1rios": "None", "Altura da extremidade": 1525} 
+{"Fase demolida": "Nenhum", "Imagem": "<Nenhum>", "Fase criada": "Constru\xe7\xe3o nova", "N\xedvel": "N\xedvel 1", "Marca": "None", "Altura do peitoril": 915, "Coment\xe1rios": "None", "Altura da extremidade": 1525}]
+}
