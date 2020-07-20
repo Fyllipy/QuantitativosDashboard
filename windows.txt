@@ -1,7 +1,7 @@
-
 {"windows": [
-{"Fase demolida": "Nenhum", "Imagem": "<Nenhum>", "Fase criada": "Construixe7ixe3o nova", "Nixedvel": "Nixedvel 1", "Marca": "None", "Altura do peitoril": 915, "Comentixe1rios": "None", "Altura da extremidade": 1525},
-{"Fase demolida": "Nenhum", "Imagem": "<Nenhum>", "Fase criada": "Construixe7ixe3o nova", "Nixedvel": "Nixedvel 1", "Marca": "None", "Altura do peitoril": 915, "Comentixe1rios": "None", "Altura da extremidade": 1525},
-{"Fase demolida": "Nenhum", "Imagem": "<Nenhum>", "Fase criada": "Construixe7ixe3o nova", "Nixedvel": "Nixedvel 1", "Marca": "None", "Altura do peitoril": 915, "Comentixe1rios": "None", "Altura da extremidade": 1525},
-{"Fase demolida": "Nenhum", "Imagem": "<Nenhum>", "Fase criada": "Construixe7ixe3o nova", "Nixedvel": "Nixedvel 1", "Marca": "None", "Altura do peitoril": 915, "Comentixe1rios": "None", "Altura da extremidade": 1525}]
+{FaseDemolida: "Nenhum", Imagem: "<Nenhum>", "FaseCriada": "Construixe7ixe3o nova", "Nixedvel": "Nixedvel 1", "Marca": "None", "Altura do peitoril": 915, "Comentixe1rios": "None", "Altura da extremidade": 1525},
+{FaseDemolida: "Nenhum", Imagem: "<Nenhum>", "FaseCriada": "Construixe7ixe3o nova", "Nixedvel": "Nixedvel 1", "Marca": "None", "Altura do peitoril": 915, "Comentixe1rios": "None", "Altura da extremidade": 1525},
+{FaseDemolida: "Nenhum", Imagem: "<Nenhum>", "FaseCriada": "Construixe7ixe3o nova", "Nixedvel": "Nixedvel 1", "Marca": "None", "Altura do peitoril": 915, "Comentixe1rios": "None", "Altura da extremidade": 1525},
+{FaseDemolida: "Nenhum", Imagem: "<Nenhum>", "FaseCriada": "Construixe7ixe3o nova", "Nixedvel": "Nixedvel 1", "Marca": "None", "Altura do peitoril": 915, "Comentixe1rios": "None", "Altura da extremidade": 1525}]
 }
+ 
