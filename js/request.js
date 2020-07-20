@@ -5,10 +5,14 @@ var ourRequest = new XMLHttpRequest();
         var ans;
             ans = ourRequest.responseText;
             console.log(ans);
+            
             //var teste = ans[rec];
+
+            //var dict = new Object();
+            //dict = ans;
 
             var dadosJSON = JSON.parse(ans);
             //var recState = dadosJSON.results;
-            console.log(dadosJSON);
+            windowData(dadosJSON);
     }
     ourRequest.send();

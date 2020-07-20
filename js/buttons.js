@@ -9,3 +9,11 @@ function w3_close() {
   document.getElementById("mySidebar").style.display = "none";
   document.getElementById("openNav").style.display = "inline-block";
 }
+
+function button() {
+  document.getElementById("main").style.marginLeft = "25%";
+  document.getElementById("wall").style.width = "25%";
+  document.getElementById("wall").style.display = "block";
+  document.getElementById("openNav").style.display = 'none';
+}
+
